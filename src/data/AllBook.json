@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "book_name": "Animal Farm",
+            "quantity": 5
+        },
+        {
+            "id": "2",
+            "book_name": "Harry Potter",
+            "quantity": 3
+        },
+        {
+            "id": "3",
+            "book_name": "Avenger Infinity War",
+            "quantity": 0
+        },
+        {
+            "id": "4",
+            "book_name": "C++ introduction",
+            "quantity": 2
+        },
+        {
+            "id": "5",
+            "book_name": "iOS 11 and Swift 4",
+            "quantity": 6
+        },
+        {
+            "id": "6",
+            "book_name": "Web Development Bootcamp",
+            "quantity": 2
+        },
+        {
+            "id": "7",
+            "book_name": "Iron Man",
+            "quantity": 7
+        },
+        {
+            "id": "8",
+            "book_name": "Black Panther",
+            "quantity": 1
+        },
+        {
+            "id": "9",
+            "book_name": "Captain America",
+            "quantity": 0
+        },
+        {
+            "id": "10",
+            "book_name": "React Native Complete Guide",
+            "quantity": 2
+        },
+        {
+            "id": "11",
+            "book_name": "React Complete Guide",
+            "quantity": 3
+        },
+        {
+            "id": "12",
+            "book_name": "Firebase Guide",
+            "quantity": 4
+        },
+        {
+            "id": "13",
+            "book_name": "Doraemon",
+            "quantity": 6
+        },
+        {
+            "id": "14",
+            "book_name": "Conan",
+            "quantity": 2
+        },
+        {
+            "id": "15",
+            "book_name": "Ruby on Rails",
+            "quantity": 1
+        },
+        {
+            "id": "16",
+            "book_name": "De men phieu luu ky",
+            "quantity": 3
+        },
+        {
+            "id": "17",
+            "book_name": "Abcxyz",
+            "quantity": 4
+        },
+        {
+            "id": "18",
+            "book_name": "How to Google",
+            "quantity": 7
+        },
+        {
+            "id": "19",
+            "book_name": "NodeJS guide",
+            "quantity": 3
+        },
+        {
+            "id": "20",
+            "book_name": "How to get 10 mark",
+            "quantity": 2
+        }
+    ]
+}
